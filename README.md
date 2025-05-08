@@ -39,20 +39,18 @@ An Instance is the same thing as creating a Virtual Machine on Azure. Instead of
 I went https://aws.amazon.com/free and created a free account. Once completed I observed menu options to get a understanding. 
 </p>
 <p>
-<<img width="858" alt="Image" src="https://github.com/user-attachments/assets/e1764ef2-2d73-4300-afbc-59c1da5ef404" />
+<<img width="858" alt="Image" src="https://github.com/user-attachments/assets/f74e765f-c69e-49e2-a691-66f7753a058e" />
 </p>
 
 <br />
-<p><h3> create an Instance on EC 2 </h3> </p>
+<p><h3> Creating an Instance on EC 2 </h3> </p>
 <p> 
-SSH (Secure Shell) sends a stead flow of encripted data to prevent other from being about to see what messeage is being sent across the network. (SSH also uses tcp.port == 22)
-
-  You can use it to: 
-  - remotely control another computer (like logging into a server from far away)
-  - Run commands on it.
-  - Transfer files securely.
+Click Search Bar > Type and select: "EC2" > Launch Instance
 </p>
 <br>
+<p> Now you can Name your PC, select the version of PC you want, select how many RAMs and etc. 
+
+  note: This where you need to create a Key Password which comes encripted and but should be stored in a secured location (especially for a host computer). 
 <p>
 <img width="858" alt="Image" src="https://github.com/user-attachments/assets/6d11a4cf-52cc-48f5-8634-feed5a5b500d" />
 </p>
