@@ -48,23 +48,19 @@ I went https://aws.amazon.com/free and created a free account. Once completed I 
 Click Search Bar > Type and select: "EC2" > Launch Instance
 </p>
 <br>
-<p> Now you can Name your PC, select the version of PC you want, select how many RAMs and etc. 
+<p> Now you can Name your PC, select the version of PC you want, select how many RAMs, Create security groups and Add more security features (to block off traffic from untrusted websites), and an option to increase the amount of Instances created all at once. 
 
-  note: This where you need to create a Key Password which comes encripted and but should be stored in a secured location (especially for a host computer). 
+  note: This where you need to create a Key Password. Once the Key is created it will download it as an encripted file automatically into your computer. All Keys and passwords should be stored in a secured location (especially for a host computer). 
 <p>
-<img width="858" alt="Image" src="https://github.com/user-attachments/assets/6d11a4cf-52cc-48f5-8634-feed5a5b500d" />
+<img width="858" alt="Image" src="https://github.com/user-attachments/assets/f5dd9f05-9cca-44f0-8031-00812a97cfa5" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
 <p><h3> Connected to the Instance </h3></p>
-
 <p>
-DNS (Domain Name System) is kind of like a internet's phone book.
-
-When you type a website like "google.com", the DNS turns the name into actual IP Address (ex: 142:255:190:14) in order for computers to use to find each other. 
+Once completed, I launch the instance. The Instance takes a few minutes to completely initialize, but once it was up and running selected the Instance I wanted to connect to and select the Connect button. Next, I went to RDP Client (remote desktop Protocol) and selected the download link to install RDP which automatically adds the Instance and back on the webpage I uploaded the password key which populated a password so I can connect to the Instance.   
 </p>
+
 <p>
 <img width="858" alt="Image" src="https://github.com/user-attachments/assets/c9e432e5-c359-4f8d-8842-68a476565ef9" />
 </p>
