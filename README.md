@@ -70,5 +70,5 @@ Once completed, I launch the instance (using Windows 2025). The Instance takes a
 <p> 
 I Open up a Powershell Window as an Admin and practice pulling informaiton from the DNS server and practice flushing the Server as well to practice troubleshooting old Ip Address issuse. 
 </p>
-
+<p> <img width="858" alt="Image" src="https://github.com/user-attachments/assets/bc7a6204-409e-4470-a005-7fe9616646df" /> </p>
 
