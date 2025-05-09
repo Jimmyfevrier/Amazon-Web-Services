@@ -58,11 +58,17 @@ Click Search Bar > Type and select: "EC2" > Launch Instance
 <br />
 <p><h3> Connected to the Instance </h3></p>
 <p>
-Once completed, I launch the instance. The Instance takes a few minutes to completely initialize, but once it was up and running selected the Instance I wanted to connect to and select the Connect button. Next, I went to RDP Client (remote desktop Protocol) and selected the download link to install RDP which automatically adds the Instance and back on the webpage I uploaded the password key which populated a password so I can connect to the Instance.   
+Once completed, I launch the instance (using Windows 2025). The Instance takes a few minutes to completely initialize, but once it was completed and running I selected the Windows Instance and select the Connect button. Next, I went to RDP Client (remote desktop Protocol) and selected the download link to install RDP which automatically adds the Instance and back on the webpage I uploaded the password key which populated a password so I can connect to the Instance.   
 </p>
 
 <p>
-<img width="858" alt="Image" src="https://github.com/user-attachments/assets/c9e432e5-c359-4f8d-8842-68a476565ef9" />
+<img width="858" alt="Image" src="https://github.com/user-attachments/assets/1761047b-bc53-4863-8d3f-26fa44147ab7" />
 </p>
 
 <br />
+
+<p> 
+I Open up a Powershell Window as an Admin and practice pulling informaiton from the DNS server and practice flushing the Server as well to practice troubleshooting old Ip Address issuse. 
+</p>
+
+
